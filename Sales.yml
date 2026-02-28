@@ -1,0 +1,5 @@
+db:
+  uname: salesdb
+  password: sales
+  uri: localhost
+  driverclass: fsdfsdf
