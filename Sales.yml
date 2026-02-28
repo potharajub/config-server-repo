@@ -1,5 +1,5 @@
 db:
-  uname: salesdb-mod-1
+  uname: salesdb-mod-1-refresh-actu
   password: sales
   uri: localhost
   driverclass: fsdfsdf
