@@ -1,5 +1,5 @@
 db:
-  uname: fit
-  password: sales-FIT
-  uri: localhost-FIT
-  driverclass: FIT
+  uname: fit-1
+  password: sales-FIT-1
+  uri: localhost-FIT-1
+  driverclass: FIT-1
