@@ -1,0 +1,5 @@
+db:
+  uname: salesdb-Dev
+  password: sales-Dev
+  uri: localhost-Dev
+  driverclass: Dev
